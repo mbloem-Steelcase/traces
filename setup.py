@@ -50,10 +50,10 @@ setup(
     version='0.4.1-Steelcase',
     description="A library for unevenly-spaced time series analysis.",
     long_description=("View on github: "  # string continuation, not a tuple
-                      "https://github.com/datascopeanalytics/traces"),
+                      "https://github.com/mbloem-Steelcase/traces"),
     author=read_author(),
     author_email=read_author_email(),
-    url='https://github.com/datascopeanalytics/traces',
+    url='https://github.com/mbloem-Steelcase/traces',
     packages=['traces'],
     package_dir={'traces': 'traces'},
     include_package_data=True,
